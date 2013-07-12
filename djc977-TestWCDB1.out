@@ -1,0 +1,11 @@
+Running `./manage.py test crisis_app` attached to terminal... up, run.1925
+Creating test database for alias 'default'...
+Installed 33 object(s) from 1 fixture(s)
+.Installed 33 object(s) from 1 fixture(s)
+.Installed 33 object(s) from 1 fixture(s)
+.........
+----------------------------------------------------------------------
+Ran 11 tests in 2.629s
+
+OK
+Destroying test database for alias 'default'...
